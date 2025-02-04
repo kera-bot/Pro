@@ -30,5 +30,6 @@ studentNJ *CreateEntryNJ(char*matriculNJ,char*nameNJ,char*surnameNJ,int ageNJ);
 void deletestudent(HashTableNJ*tableNJ, char* matriculeNJ);
 
 void editfileNJ(HashTableNJ*tableNJ,char*fileNJ);
+void fonction_dommo(int a);
 
 #endif
